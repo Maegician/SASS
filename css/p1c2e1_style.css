@@ -26,7 +26,8 @@ html, body {
   background: #15DEA5;
   color: #FFF;
   font-size: 2rem;
-  text-transform: uppercase;
 }
 
-
+.heading-caps{
+  text-transform: uppercase;
+}
